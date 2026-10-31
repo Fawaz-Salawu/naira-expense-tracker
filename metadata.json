@@ -1,0 +1,6 @@
+{
+  "name": "Naira Expense Tracker",
+  "description": "A simple, mobile-first personal expense tracker for Naira (₦) with monthly budget tracking, time filters, category breakdowns, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
